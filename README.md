@@ -1,8 +1,11 @@
-# UDACITY'S FRONT-END WEB DEVELOPMENT NANODEGREE PROJECTS
+# UDACITY'S FRONT-END WEB DEVELOPMENT
 A repository for my submissions to Udacity's Front-End Web Development Nandegree
 ---
 
-## Contents
+## Nanodegree Project Contents
 
 **Project: Mockup to Article**
-> [Mockup] (
+> [Mockup]()   
+> [Index]()   
+> [Reflection]()   
+---
