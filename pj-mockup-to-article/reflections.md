@@ -7,7 +7,7 @@ You've learned a lot about web development so far. I want you to take a moment t
 ---
 
 > My top priority is focusing on each lesson's coding syntax in order to keep my coding consistent and in line with "best practices". I think an early foundation of proper syntax will help me more easily write and read code in the future. The more I progress in this degree, the more difficult the syntax will become, but my code will always remain coherent and orderly if I start working to ensure best practices even with the most simplest of elements now.   
-
+>   
 > I have also been learning to slow down and read everything the courses give me. Sometimes the urge to speed through a specific lesson because I "know" the content rears its head. But I am reminding myself that not all resources and information about a specific subject are the same. Sometimes you learn new things that other sources have left out. I keep this in mind so that I don't miss anything that might have supported me in the future.
 ---
 > I have previous experience in web design and basic html coding, so a lot of the basics have been simple review for me. As a child I spent a lot of time making layouts and fansites in my spare time. Some of that experience has stuck with me, which has allowed me to consume beginning lessons quickly.
