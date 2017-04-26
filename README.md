@@ -3,7 +3,13 @@ A repository for my submissions to Udacity's Front-End Web Development Nandegree
 
 ## Nanodegree Project Contents ##   
 **Project: Mockup to Article**   
-> [Mockup](https://github.com/spitsfire/udacity-fewd/blob/master/pj-mockup-to-article/blog-mockup.pdf)   
-> [Index](https://github.com/spitsfire/udacity-fewd/blob/master/pj-mockup-to-article/index.html)   
-> [Reflection](https://github.com/spitsfire/udacity-fewd/blob/master/pj-mockup-to-article/reflections.md)   
+> [Mockup](pj-mockup-to-article/blog-mockup.pdf)   
+> [Index](pj-mockup-to-article/index.html)   
+> [Reflection](pj-mockup-to-article/reflections.md)   
+---
+
+**Project: Animal Trading Card**   
+> [Prototype](pj-animal-trading-card/design-prototype.png)   
+> [My Card](pj-animal-trading-card/card.html)   
+> [CSS Stylesheet](pj-animal-trading-card/styles.css)   
 ---
