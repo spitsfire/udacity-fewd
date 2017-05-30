@@ -11,3 +11,8 @@ A repository for my submissions to Udacity's Front-End Web Development Nandegree
 > [Prototype](pj-animal-trading-card/design-prototype.png)   
 > [My Card](pj-animal-trading-card/card.html)   
 > [CSS Stylesheet](pj-animal-trading-card/styles.css)   
+
+**Project: Mockup to Portfolio**
+> [Mockup](pj-portfolio/design-mockup-portfolio.pdf)   
+> [Index](pj-portfolio/index.html)  
+> [CSS](pj-portfolio/css/main.css)  
