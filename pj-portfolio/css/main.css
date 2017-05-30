@@ -5,7 +5,6 @@ body {
   max-width: 1000px;
   margin: 0 auto;
 }
-
 h1 {
   margin-bottom: 0;
   font-weight:300;
@@ -26,7 +25,6 @@ div,
 img {
   width: 100%;
 }
-
 .header {
   background-color: white;
   background-image: linear-gradient(to bottom, transparent -100%, white 100%), url("../img/splash-800_small.jpg");
@@ -98,7 +96,6 @@ h3 {
   height: 1px;
   background: #ccc;
 }
-
 @media screen and (min-width: 780px) {
   .header {
     display: inline-block;
@@ -125,7 +122,6 @@ h3 {
     margin-top: 10px;
   }
 }
-
 @media screen and (min-width: 800px) {
   .container {
     max-width: 100%;
