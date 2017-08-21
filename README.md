@@ -15,4 +15,10 @@ A repository for my submissions to Udacity's Front-End Web Development Nandegree
 **Project: Mockup to Portfolio**
 > [Mockup](pj-portfolio/design-mockup-portfolio.pdf)   
 > [Index](pj-portfolio/index.html)  
-> [CSS](pj-portfolio/css/main.css)  
+> [CSS Stylesheet](pj-portfolio/css/main.css)  
+
+**Project: Mockup to Resume**
+> [Mockup](http://i.imgur.com/pWU1Xbl.png)   
+> [Index](frontend-nanodegree-resume/index.html)  
+> [CSS Stylesheet](frontend-nanodegree-resume/css/style.css)  
+
